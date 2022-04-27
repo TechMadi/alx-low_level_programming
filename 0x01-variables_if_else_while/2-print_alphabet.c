@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- *main - Prints the alphabet
+ * main - Prints the alphabetic
  *
- *return 0(Success)
- *
-*/
+ * Return: Always (Success)
+ */
 int main(void)
 {
 	char alph;
